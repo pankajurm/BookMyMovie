@@ -2,7 +2,8 @@
 <br>
 A simple movie ticket booking beckend project using **Core java**, **Jdbc**, and **SQL**.
 <br>
-## Features/Functionality
+Features/Functionality
+<br>
 Enter City: Select the city where you want to watch a movie.
 <br>
 View Theaters in City: Displays the list of theaters available in the selected city.
@@ -15,10 +16,11 @@ Enter Show ID and Number of Seats: Book tickets by entering the show ID and numb
 <br>
 Booking Confirmation: Displays a success message with assigned seat numbers (e.g., Booking successful! Seats: A3, A4).
 <br>
-## Technologies Used
+Technologies Used
+<br>
 - Core Java
 - JDBC
 - MySQL
 <br>
-## Author
-Pankaj Uramaliya
+Author
+-Pankaj Uramaliya
